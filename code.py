@@ -5,4 +5,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Placeholder for some code
-print("Hello World!")
+def main():
+	print("Hello World!")
+
+if __name__ == "__main__":
+	main()
