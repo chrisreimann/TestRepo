@@ -6,7 +6,7 @@ import seaborn as sns
 
 # Placeholder for some code
 def main():
-	print("Ich bin eine Veränderung am Code!")
+	print("Hello World!")
 
 if __name__ == "__main__":
 	main()
